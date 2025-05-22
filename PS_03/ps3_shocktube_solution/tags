@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+bisectionGibbsEnergies	bisectionGibbsEnergies.m	/^function [Yv] = bisectionGibbsEnergies(rho,e,Yv,deltag,meang0,epsilon,epsilonv,epsilon0,DY,sign)$/;"	f
+flux_HLLC_F	solveEulerHLLC.m	/^function [flux] = flux_HLLC_F(F,W,p,c,ind,Row,sign)$/;"	f
+gibbsRelaxation	gibbsRelaxation.m	/^function [Yv] = gibbsRelaxation(rho,e,Yv)$/;"	f
+shock_col	shock_col.m	/^function [W,F,Yv,Yl,rho,u,p,T,E,e,x,time] = shock_col$/;"	f
+solveEulerHLLC	solveEulerHLLC.m	/^function [W] = solveEulerHLLC(W,F,p,c,Nx,hx,dt)$/;"	f
+stiffenedGasParameters	stiffenedGasParameters.m	/^function [Cv,Cl,gammav,gammal,qv,ql,pinfv,pinfl,qvp,qlp] = stiffenedGasParameters$/;"	f
+updateFlowVariables	updateFlowVariables.m	/^function [rho,Yv,Yl,u,E,e,p,T,c] = updateFlowVariables(W,Nx)$/;"	f
+updateFluxVector	updateFluxVector.m	/^function [F] = updateFluxVector(rho,Yv,u,p,E,Nx)$/;"	f
+updateGibbsEnergies	updateGibbsEnergies.m	/^function [deltag,meang,p,T] = updateGibbsEnergies(rho,e,Yv)$/;"	f
+updateIntEnergy	updateIntEnergy.m	/^function [e] = updateIntEnergy(T,Yv,Yl,p)$/;"	f
+updatePressure	updatePressure.m	/^function [p] = updatePressure(rho,Yv,e)$/;"	f
+updateSoundSpeed	updateSoundSpeed.m	/^function [c] = updateSoundSpeed(p,rho,T,Yv,Yl)$/;"	f
+updateStateVector	updateStateVector.m	/^function [W] = updateStateVector(rho,Yv,u,p,E,Nx)$/;"	f
+updateTemperature	updateTemperature.m	/^function [T] = updateTemperature(rho,Yv,Yl,p)$/;"	f
